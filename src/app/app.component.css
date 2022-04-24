@@ -1,0 +1,8 @@
+.content {
+  height: 30vh;
+  overflow-y: auto;
+}
+
+p {
+  font-family: Lato;
+}
